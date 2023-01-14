@@ -1,0 +1,18 @@
+/*  top player and blogs css starts */
+
+#tops{
+
+}
+.top-players .players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.top-players .players .player{
+    display: flex;
+    align-items: center;
+}
+.top-players .players .player img{
+    width: 56px;
+    height: 56px;
+}
